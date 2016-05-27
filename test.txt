@@ -1,0 +1,22 @@
+
+
+This  is Plain Text file 
+which testing my git skills
+
+important git commands 
+-------------------------------------------------
+git push origin --delete smukku
+git branch smukku
+git push origin smukku
+git checkout smukku
+git pull origin smukku
+git config branch.smukku.remote origin
+git config branch.smukku.merge refs/heads/smukku
+git pull
+
+git stash apply stash@{2}
+git push -f origin <branch>
+git reset <hashcode> -f head
+git revert <hashcode> 
+git fetch origin smukku:smukku
+
